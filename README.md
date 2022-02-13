@@ -121,6 +121,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"></div>
 <br />
 
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 ----
 <!--
 **Oluwafunmisi/Oluwafunmisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
